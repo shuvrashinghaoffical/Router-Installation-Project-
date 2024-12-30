@@ -1,0 +1,60 @@
+
+
+**1. Introduction**
+
+*   **Purpose:** This guide outlines the step-by-step process of installing a home/office router. 
+*   **Target Audience:** This guide is intended for users with basic computer knowledge.
+*   **Tools Required:**
+    *   Router
+    *   Ethernet cable
+    *   Power cable
+    *   Computer/Laptop
+    *   Internet connection (if applicable)
+
+**2. Step-by-Step Installation Guide**
+
+   2.1 **Unboxing and Setup:**
+      1.  Carefully unpack the router and all included accessories (power adapter, Ethernet cable, etc.).
+      2.  Find a suitable location for the router. Choose a central location within your home/office for optimal Wi-Fi coverage. Avoid placing the router near metal objects or electronic devices that may interfere with the signal.
+      3.  Connect the power adapter to the router and plug it into a wall outlet.
+
+   2.2 **Connect to the Modem (if applicable):**
+      1.  If you have a separate modem, connect the router to the modem using the provided Ethernet cable. 
+      2.  The Ethernet cable should be connected to the "WAN" or "Internet" port on the router.
+
+   2.3 **Connect to a Computer (Optional):**
+      1.  Connect your computer to the router using an Ethernet cable. This is usually required for initial setup and configuration.
+
+   2.4 **Configure the Router:**
+      1.  Open a web browser on your computer and type the default gateway address of your router in the address bar (usually 192.168.1.1 or 192.168.0.1).
+      2.  Enter the default username and password (usually found in the router's manual).
+      3.  **Important:** Change the default username and password to a strong, unique one for security reasons.
+      4.  **Internet Connection Setup:**
+         *   **If using DSL:** Enter your DSL username and password provided by your internet service provider (ISP).
+         *   **If using Cable:** Enter your cable modem MAC address (if required).
+         *   **If using Fiber:** Follow the instructions provided by your ISP.
+      5.  **Wi-Fi Settings:**
+         *   Enable Wi-Fi and choose a strong, unique network name (SSID).
+         *   Set a strong and secure Wi-Fi password (WPA2/WPA3 encryption is recommended).
+      6.  **Save and Apply Settings:** Save the router settings and allow the router to reboot.
+
+   2.5 **Connect to Wi-Fi:**
+      1.  On your computer, connect to the Wi-Fi network using the SSID and password you just created.
+      2.  Test your internet connection by browsing the web or running a speed test.
+
+**3. Troubleshooting Tips**
+
+*   If you cannot connect to the internet, check all cable connections.
+*   Make sure your computer is correctly configured to obtain an IP address automatically.
+*   If you are still having trouble, consult your router's manual or contact your ISP for assistance.
+
+**4. Safety Precautions**
+
+*   Avoid touching the router or any of its components while they are powered on.
+*   Keep the router away from water and extreme temperatures.
+*   Unplug the router from the power source before making any physical connections.
+
+**5. Additional Notes**
+
+*   This guide provides general instructions. Specific steps may vary depending on your router model and ISP.
+*   Always refer to your router's manual for detailed instructions and troubleshooting tips.
